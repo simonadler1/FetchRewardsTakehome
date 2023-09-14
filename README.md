@@ -1,9 +1,9 @@
 # Installation
 After cloning the repo run the following in the project directory to download the dependencies:
 
-    ```console
+    
     go mod download
-    ```
+    
   
 ## Running
 
