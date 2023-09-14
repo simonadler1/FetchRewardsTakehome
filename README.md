@@ -11,3 +11,8 @@ After cloning the repo run the following in the project directory to download th
     ```console
     go run main.go
     ```
+## Testing
+To run the included tests run:
+```console
+go test
+```
